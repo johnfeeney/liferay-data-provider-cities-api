@@ -1,0 +1,4 @@
+Bundle-Name: edm-mozambique-cities-api
+Bundle-SymbolicName: com.jfeeney.demo.edm.rest.service
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
